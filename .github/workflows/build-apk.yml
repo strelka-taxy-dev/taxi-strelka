@@ -1,7 +1,6 @@
-
 name: Build Taxi Strelka APK
 
-on:
+'on':
   workflow_dispatch:
   push:
     branches:
